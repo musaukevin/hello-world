@@ -1,2 +1,4 @@
 # hello-world
-Me learning how to use GitHub
+Aye My name is Kevin Musau.
+I'm here learning how to use Github.
+I'm into Web Development
